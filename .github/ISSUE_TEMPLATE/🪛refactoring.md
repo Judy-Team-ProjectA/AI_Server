@@ -1,5 +1,5 @@
 ---
-name: "\U0001F5BDFeature"
+name: "\U0001F5BDIssue"
 about: 리펙토링을 위한 Issue
 title: ''
 labels: ''
