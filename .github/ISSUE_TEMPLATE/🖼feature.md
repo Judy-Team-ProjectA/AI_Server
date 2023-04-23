@@ -1,5 +1,5 @@
 ---
-name: "\U0001F5BCFeature"
+name: "\U0001F5BDFeature"
 about: 기능 구현을 위한 Issue
 title: ''
 labels: ''
